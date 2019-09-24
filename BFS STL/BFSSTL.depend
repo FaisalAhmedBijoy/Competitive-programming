@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539969317 source:d:\competetive programming\graph theory\bfsstl\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

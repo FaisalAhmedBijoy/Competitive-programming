@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537595358 source:d:\competetive programming\graph theory\dijkstraalgo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<list>
+

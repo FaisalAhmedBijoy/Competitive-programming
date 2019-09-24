@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533917765 source:d:\competetive programming\graph theory\adj list [ weighted ]\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<iterator>
+

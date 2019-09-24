@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533903775 source:d:\competetive programming\graph theory\adjacency list\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<iterator>
+

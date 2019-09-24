@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534167068 source:d:\competetive programming\graph theory\kruskal algorithmn\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<fstream>
+	<algorithm>
+	<list>
+	<stdlib.h>
+	<iterator>
+
