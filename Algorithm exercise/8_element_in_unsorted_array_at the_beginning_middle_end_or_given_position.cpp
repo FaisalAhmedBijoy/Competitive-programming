@@ -1,5 +1,4 @@
 
-// Write a program that can perform linear search (Specific element).
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -35,6 +34,11 @@ int main()
              cout<<"Middle element of the array"<<endl;
              break;
         }
+        else if (i ==9){
+            cout<<"Not found in the input array"<<endl;
+        }
+
+
 
 
 
