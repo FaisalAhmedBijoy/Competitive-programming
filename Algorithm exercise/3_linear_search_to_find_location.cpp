@@ -14,7 +14,7 @@ int main()
         if (element == numbers[i])
         {
             cout<<"Found the element in array: "<<element<<endl;
-
+            cout<<"Location index number: "<<i<<endl;
             // break;
 
         }
@@ -23,3 +23,4 @@ int main()
     }
 
 }
+
