@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int element;
-    int numbers[10] ={0,1,2,3,4,5,6,7,8,9};
+    int numbers[10] ={0,1,2,3,4,100,6,7,100,9};
     cout<<"Enter the element need to search"<<endl;
     cin>>element;
 
@@ -15,7 +15,7 @@ int main()
         {
             cout<<"Found the element in array: "<<element<<endl;
             cout<<"Location index number: "<<i<<endl;
-            // break;
+            //break;
 
         }
 

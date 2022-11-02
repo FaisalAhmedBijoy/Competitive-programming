@@ -14,7 +14,6 @@ int main()
         if (element == numbers[i])
         {
             cout<<"Found the element in array: "<<element<<endl;
-
             // break;
 
         }
