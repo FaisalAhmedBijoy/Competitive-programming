@@ -1,6 +1,6 @@
 
 #include<iostream>
-#include<bits/stdc++.h>
+//#include<bits/stdc++.h>
 using namespace std;
 int main()
 {
@@ -16,25 +16,27 @@ int main()
         {
             cout<<"Found the element in array: "<<element<<endl;
             cout<<"Location index number: "<<i<<endl;
-            break;
 
         }
-        else if (element == numbers[0])
+        if (element == numbers[0])
         {
             cout<<"First element of the array"<<endl;
             break;
+
         }
-        else if (element == numbers[-1])
+         if (element == numbers[-1])
         {
             cout<<"Last element of the array"<<endl;
             break;
+
         }
-        else if (element == numbers[int(numbers_array_size/2)])
+        if (element == numbers[int(numbers_array_size/2)])
         {
              cout<<"Middle element of the array"<<endl;
              break;
+
         }
-        else if (i ==9){
+        if (i ==9){
             cout<<"Not found in the input array"<<endl;
         }
 
